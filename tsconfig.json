@@ -27,12 +27,14 @@
 			"@/*": ["src/*"],
 			"@components/*": ["src/components/*"],
 			"@components": ["src/components/index.ts"],
+			"@layouts/*": ["src/layouts/*"],
+			"@layouts": ["src/layouts/index.ts"],
 			"@pages/*": ["src/pages/*"],
 			"@pages": ["src/pages/index.ts"],
 			"@redux/*": ["src/redux/*"],
 			"@redux": ["src/redux/index.ts"],
 			"@routes/*": ["src/routes/*"],
-			"@routes": ["src/routes/index.tsx"],
+			"@routes": ["src/routes/index.tsx"]
 		}
 	},
 	"include": ["src"],
